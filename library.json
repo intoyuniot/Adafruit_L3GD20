@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_L3GD20",
+    "version": "1.0.0",
+    "keywords": "L3GD20",
+    "description": "L3GD20陀螺仪库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_L3GD20.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
